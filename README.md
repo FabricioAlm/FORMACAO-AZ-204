@@ -98,6 +98,4 @@ Copie a chave default.
 
 No ambiente de teste, insira a chave nos parâmetros.
 
-📜 Licença
 
-Este projeto está sob a licença MIT.
